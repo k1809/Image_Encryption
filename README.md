@@ -8,6 +8,7 @@ Ensure you have Python installed on your system. This script requires the follow
 
 ```bash
 pip install -r requirements.txt
+```
 
 Usage Instructions
 
