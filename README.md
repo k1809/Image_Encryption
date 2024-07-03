@@ -19,7 +19,9 @@ pip install -r requirements.txt
     2. Install Required Libraries
 
         Install the necessary Python libraries by running the following command in your terminal or command prompt (ensure you're in the directory where requirements.txt is located):
+            ```bash
             pip install -r requirements.txt
+            ```
 
     3. Run the Script
 
