@@ -10,7 +10,7 @@ Ensure you have Python installed on your system. This script requires the follow
 pip install -r requirements.txt
 ```
 
-Usage Instructions
+# Usage Instructions
 
     1. Clone the Repository
 
